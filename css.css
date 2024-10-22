@@ -1,0 +1,62 @@
+body {
+    background-color: #9EE7F9;
+    
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color:maroon;
+}
+
+h2{
+    font-size: 20px;
+    color: #362C02
+}
+
+
+table, tr, th, td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+
+}
+
+th, td {
+    background-color: #0FD2E8;
+    
+}
+
+#analyza {
+    background-color:#85E3FA;
+}
+
+#design {
+    background-color: #4AD5F7;
+}
+
+#navrhscenaru {
+    background-color:#0FB1DA;
+}
+
+#navrhtestu {
+    background-color:#2593AF;
+}
+
+#spustenitestu {
+    background-color:#13829E;
+}
+
+#reportovanichyb{
+    background-color:#0F7892;
+}
+
+#pretestovanichyb {
+    background-color:#08637A;
+}
+
+#akceptacnitestovani {
+    background-color:#054D5F;
+}
+
